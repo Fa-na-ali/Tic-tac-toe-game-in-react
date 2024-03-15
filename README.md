@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Tic-tac-toe game in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Tic-tac-toe, noughts and crosses, or Xs and Os is a game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
 
 ## Available Scripts
 
